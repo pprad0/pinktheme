@@ -1,0 +1,22 @@
+{
+  "name": "juuh-theme",
+  "displayName": "juuh Theme",
+  "description": "pink light theme for juuh",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "juuh theme",
+        "uiTheme": "vs",
+        "path": "./themes/juuh theme-color-theme.json",
+        "icon": "Cute-Pink-Cloud-Icon-Graphics-21277447-1.jpg"
+      }
+    ]
+  }
+}
